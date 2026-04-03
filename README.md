@@ -14,7 +14,7 @@ To understand how factors such as location, room type, and pricing impact bookin
 
 ## 📊 Dataset
 
-- 10,000+ Airbnb listings  
+- 100K+ Airbnb listings  
 - Features include price, location, room type, availability, and reviews  
 
 ---
